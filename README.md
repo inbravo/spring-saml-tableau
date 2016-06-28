@@ -3,6 +3,7 @@ Spring SAML based integration with SSOCircle and Tableau
 
 
 ### Dont forget to add unique SP at SSOCircle and in your code
+### Update Tableau landing URL at [landing.html](https://github.com/inbravo/spring-saml-tableau/blob/master/src/main/resources/templates/landing.html)
 ### Download current SP metadata:
 - Open web browser to the URL of the deployed application.
 - Select Metadata information.
@@ -19,6 +20,7 @@ Spring SAML based integration with SSOCircle and Tableau
 - Logout from the SSOCircle service.
 
 ---------
+
 
 
 
